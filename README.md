@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou a Larissa Sarapio
 - 🔭 Desenvolvedora de Software - trabalho com back-end
-- 🌱 Estudando JAVA, Mysql e Spring Boot.
+- 🌱 Estudando JAVA, Javascript, MongoDB, Mysql e Spring Boot.
  - Técnico em Informática; Graduação de Engenharia de Software (em andamento). Já atuei em diversos projetos como estágiaria, entre eles: suporte de redes, desenvolvimento de um aplicativo android, manutenção de computadores e um pouco de segurança da informação (por meio do meu curso técnico). Desde o final de 2022 tenho voltado a programar e há alguns meses atuo com suporte técnico.
 
 <div>
