@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou a Larissa Sarapio
-- 🔭 Desenvolvedora de Software - trabalho com back-end
-- 🌱 Estudando JAVA, Javascript, MongoDB, Mysql e Spring Boot.
- - Técnico em Informática; Graduação de Engenharia de Software (em andamento). Já atuei em diversos projetos como estágiaria, entre eles: suporte de redes, desenvolvimento de um aplicativo android, manutenção de computadores e um pouco de segurança da informação (por meio do meu curso técnico). Desde o final de 2022 tenho voltado a programar e estou em busca da uma vaga como desenvolvedora.
+- 🔭 Desenvolvedora de Software - trabalho com full stack.
+- 🌱 Estudando JAVA, Javascript, MongoDB, Mysql, Spring Boot e Angular.
+ - Técnico em Informática; Graduação de Engenharia de Software (em andamento). Já atuei em diversos projetos como estágiaria, entre eles: suporte de redes, desenvolvimento de um aplicativo android, manutenção de computadores e um pouco de segurança da informação (por meio do meu curso técnico). Desde o final de 2022 tenho voltado a programar e atualmente trabalho como desenvolvedora full stack em uma startup.
 
 <div>
 	<a href="https://github.com/larisarapio">
