@@ -1,5 +1,5 @@
 ### 👋 Olá! Eu sou a Larissa Sarapio
-- 🔭 Desenvolvedora de Software - trabalho com full stack.
+- 🔭 Desenvolvedora de Software - trabalho com fullstack.
 - 🌱 Estudando JAVA, Javascript, MongoDB, Node.js, Nestjs e Angular. 
  - Técnico em Informática; Graduação de Engenharia de Software (em andamento). Já atuei em diversos projetos como estágiaria, entre eles: suporte de redes, desenvolvimento de um aplicativo android, manutenção de computadores e um pouco de segurança da informação (por meio do meu curso técnico). Desde o final de 2022 tenho voltado a programar e atualmente sigo me aperfeiçoando na área.
 
